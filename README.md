@@ -1,6 +1,7 @@
 # Bon Vivant Delicatessen
 Marketing Analysis objective to develop a Bon Vivant Delicatessen customer profile
 
+<img width="860" alt="Bon-Vivant-Delicatessen" src="https://github.com/tiffany-stone/Bon-Vivant-Delicatessen/assets/119627982/9c485ee6-213d-493d-a415-6ca1734510c0">
 
 
 ![BVD analysis_00002](https://github.com/tiffany-stone/Bon-Vivant-Delicatessen/assets/119627982/60f84622-727a-4a0d-9039-18f647a517ed)
